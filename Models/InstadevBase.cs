@@ -1,4 +1,6 @@
-namespace .Insta.Models
+using System.IO;
+
+namespace Insta.Models
 {
     public class InstadevBase
     {
